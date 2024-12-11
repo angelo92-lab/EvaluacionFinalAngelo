@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="button_primary">#5A8DEE</color>
+    <color name="button_secondary">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="background_light_green">#E8F5E9</color>
+    <color name="background_light_blue">#E3F2FD</color>
+    <color name="background_gray">#F5F5F5</color>
+    <color name="text_primary">#212121</color>
+    <color name="button_blue">#0288D1</color>
+    <color name="button_gray">#BDBDBD</color>
+    <color name="message_background">#F5F5F5</color>
+    <color name="message_sender">#000000</color>
+    <color name="message_content">#333333</color>
+    <color name="black">#000000</color>
+    <color name="background_light_gray">#F5F5F5</color>
+    <color name="image_background">#E0E0E0</color>
+    <color name="list_background">#E0E0E0</color>
+    <color name="text_hint">#BDBDBD</color>
+
+</resources>

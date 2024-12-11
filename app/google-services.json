@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "45633217269",
+    "project_id": "telefonoangelo-6b6a0",
+    "storage_bucket": "telefonoangelo-6b6a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45633217269:android:c5791bdc9bfe761d2f5bbc",
+        "android_client_info": {
+          "package_name": "com.example.telefonoangelo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKDQTBXfCzCiluJSceVrfw6--cRyILlkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
